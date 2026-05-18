@@ -1,5 +1,5 @@
 ---
-Tittle: The Lighthouse
+Title: The Lighthouse
 Year: 1980
 Genre: Opera
 Disease: Paranoia
